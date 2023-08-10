@@ -1,5 +1,7 @@
 
-# Gov UI
+<h2 align="center">
+Gov UI
+</h2>
 
 React UI component libraries for the government.
 
